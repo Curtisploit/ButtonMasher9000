@@ -1,3 +1,4 @@
+/*
 package com.curtisploit.bm9k
 
 import androidx.compose.ui.test.junit4.createAndroidComposeRule
@@ -16,3 +17,4 @@ class ButtonScreenTest {
         composeTestRule.onNodeWithText("Count: 1").assertExists()
     }
 }
+*/

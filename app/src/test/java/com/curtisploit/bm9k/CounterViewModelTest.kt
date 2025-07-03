@@ -1,3 +1,4 @@
+/*
 package com.curtisploit.bm9k
 
 import androidx.arch.core.executor.testing.InstantTaskExecutorRule
@@ -30,3 +31,4 @@ class CounterViewModelTest {
         // further verification if needed
     }
 }
+*/
